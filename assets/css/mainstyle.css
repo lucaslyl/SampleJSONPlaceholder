@@ -1,0 +1,34 @@
+/* PROJECTS : AMCORP PROPERTIES */
+/* CREATOR : LUCAS */
+/* DATE : 12/02/2020 */
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,500,600,700&display=swap");
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.txt-lightText {
+  color: #FFFFFF;
+}
+
+.txt-darkText {
+  color: #222222;
+}
+
+.txt-grey-sec {
+  color: #8B8B8B;
+}
+
+.txt-grey-thi {
+  color: #E1E1E1;
+}
+
+.pageWrap .masthead {
+  background-color: #E1E1E1;
+  margin-bottom: 1rem;
+}
+
+.pageWrap .bodyContainer {
+  background-color: #FFFFFF;
+}
+/*# sourceMappingURL=mainstyle.css.map */
